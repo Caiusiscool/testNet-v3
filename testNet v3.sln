@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNet v3", "testNet v3\testNet v3.csproj", "{EDD94036-DA43-4DAB-9689-3AB5D950AE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNet v3 DLL", "testNet v3 DLL\testNet v3 DLL.csproj", "{0640940C-82AB-4984-99F6-B5783117F883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD94036-DA43-4DAB-9689-3AB5D950AE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD94036-DA43-4DAB-9689-3AB5D950AE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD94036-DA43-4DAB-9689-3AB5D950AE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD94036-DA43-4DAB-9689-3AB5D950AE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0640940C-82AB-4984-99F6-B5783117F883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0640940C-82AB-4984-99F6-B5783117F883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0640940C-82AB-4984-99F6-B5783117F883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0640940C-82AB-4984-99F6-B5783117F883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F49A91-C69E-4D5B-805A-F1094DBB0ED5}
+	EndGlobalSection
+EndGlobal
