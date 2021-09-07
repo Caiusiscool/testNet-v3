@@ -13,3 +13,5 @@ Encrypt/encode the data sent/recieved to ensure it isn't intercepted/tampered wi
 
 
 This is not intended to be deployed, for educational purposes only
+
+![UI Showcase](https://cdn.discordapp.com/attachments/879783193635618856/884556435332165682/unknown.png)
